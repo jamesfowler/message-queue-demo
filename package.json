@@ -4,6 +4,7 @@
   "description": "",
   "main": "app.js",
   "dependencies": {
-    "amqplib": "0.4.2"
+    "amqplib": "0.4.2",
+    "lodash": "^4.13.1"
   }
 }
