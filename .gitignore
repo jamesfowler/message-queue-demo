@@ -1,0 +1,13 @@
+.vagrant
+.includepath
+*.sublime-*
+logs/*
+.DS_Store
+Thumbs.db
+.project
+sublime-project.json
+*.orig
+node_modules
+npm-debug.log
+out/*
+coverage/*
